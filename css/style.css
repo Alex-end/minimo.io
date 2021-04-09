@@ -697,9 +697,11 @@ span.bold {
 .comments__subtitle {
   margin: 30px 0 0 0;
 }
-
+.comments{
+  padding-bottom: 20px;
+}
 .comments__row {
-  margin: 35px 0 30px 0;
+  margin: 35px 0 0 0;
 }
 
 .comments__column {
