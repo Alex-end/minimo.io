@@ -579,7 +579,7 @@ span.bold {
 }
 
 .aside {
-  padding-top: 90px;
+  padding:90px 0 100px 0;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
